@@ -1,0 +1,5 @@
+select id, dataWyjazdu, cel from wycieczki where dostepna=1;
+
+select nazwaPliku, podpis from zdjecia, wycieczki where zdjecia.id=wycieczki.zdjecia_id and cena>1000;
+
+select nazwaPliku, podpis from zdjecia order by podpis ASC;

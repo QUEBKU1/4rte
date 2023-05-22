@@ -1,0 +1,17 @@
+1. odbc w ms access pełni rolę połączenia bazy danych ze źródłem danych takim jak ms sql
+
+2.pliki mają rozszerzenie accdb
+
+3. na tym pasku są dostępne narzędzia pozwalające na importowanie i eskortowanie danych oraz łączenie plików zawierających dane odczytywane przez ms access
+
+4.pliki można zaszyfrować jedynie za pomoca hasła
+
+5.nazwy pwoinny być jedno wyrazowe np.alkholizm lub rozdzielone znakiem "_" np. alkoholizm_2023
+
+6.nie można. uzasadnienie: bo nie XD
+
+7.Komputer i procesor. Windows: 1,6 GHz lub szybszy, 2-rdzeniowy. ...
+Pamięć Windows: 4 GB pamięci RAM; 2 GB pamięci RAM (wersja 32-bitowa) ...
+Dysk twardy. Windows: 4 GB dostępnego miejsca na dysku.
+
+8. acces wyglada dużo bardziej zaawansowanie oraz nowocześnie, w libre office base widać że jest to wersja darmowa
